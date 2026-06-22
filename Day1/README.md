@@ -7,6 +7,6 @@ one day at a time.
 ## Progress
 | Day | Topic | Status |
 |-----|-------|--------|
-| 01  | Python for AI — comprehensions, lambdas, zip | Pending 
-|
+| 01  | Python for AI — comprehensions, lambdas, zip | Done
+
 
