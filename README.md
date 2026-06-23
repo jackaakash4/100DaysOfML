@@ -8,5 +8,5 @@ one day at a time.
 | Day | Topic | Status |
 |-----|-------|--------|
 | 01  | Python for AI — comprehensions, lambdas, zip | Done
-| 02  | Python: oops, dunder methods and venv set up | Pending
+| 02  | Python: oops, dunder methods and venv set up | Done
 
