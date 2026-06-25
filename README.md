@@ -10,4 +10,5 @@ one day at a time.
 | 01  | Python for AI — comprehensions, lambdas, zip | Done
 | 02  | Python: oops, dunder methods and venv set up | Done
 | 03  | Python: numpy, slicing, ufuncs, vectorization, broadcasting and normalization of data | Done
+| 04  | Python: Advanced numpy, linear algebra, reproducibility and performance benchmarking | Done
 
