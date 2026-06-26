@@ -11,4 +11,6 @@ one day at a time.
 | 02  | Python: oops, dunder methods and venv set up | Done
 | 03  | Python: numpy, slicing, ufuncs, vectorization, broadcasting and normalization of data | Done
 | 04  | Python: Advanced numpy, linear algebra, reproducibility and performance benchmarking | Done
+| 05  | Python: Advanced panda libary, data loading, data cleaning, data preprocessing | Pending
+
 
