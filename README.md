@@ -12,4 +12,4 @@ one day at a time.
 | 03  | Python: numpy, slicing, ufuncs, vectorization, broadcasting and normalization of data | Done
 | 04  | Python: Advanced numpy, linear algebra, reproducibility and performance benchmarking | Done
 | 05  | Python: Pandas fundamental, data loading, data cleaning, data selection, filtering, challenge| Done
-
+| 06  | Python: Pandas data wrangling, merging, aggregation and feature engineering | Done
