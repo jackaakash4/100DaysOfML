@@ -30,3 +30,7 @@ sns.heatmap(
         )
 plt.title("Feature correlation matrix ")
 plt.show()
+
+#pairplot
+sns.pairplot(df)
+plt.show()
