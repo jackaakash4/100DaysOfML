@@ -14,4 +14,5 @@ one day at a time.
 | 05  | Python: Pandas fundamental, data loading, data cleaning, data selection, filtering, challenge| Done
 | 06  | Python: Pandas data wrangling, merging, aggregation and feature engineering | Done
 | 07  | Python: Data visualization with matplotlib, seaborn and plotly | Done
+| 08  | Python: EDA with outlier detection, skewness analysis and feature correlation | Done
 
