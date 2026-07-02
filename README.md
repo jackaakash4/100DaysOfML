@@ -16,4 +16,4 @@ one day at a time.
 | 07  | Python: Data visualization with matplotlib, seaborn and plotly | Done
 | 08  | Python: EDA with outlier detection, skewness analysis and feature correlation | Done
 | 09  | Python: Statistics for ML Part1 - distriutions, CLT, feature scaling and outlier detection using zscore | Done
-
+| 10  | Python: Statistics for ML part2 - hypothesis testing, confidence interval, bayes theorem, and A/B testing | Done
