@@ -18,3 +18,4 @@ one day at a time.
 | 09  | Python: Statistics for ML Part1 - distriutions, CLT, feature scaling and outlier detection using zscore | Done
 | 10  | Python: Statistics for ML part2 - hypothesis testing, confidence interval, bayes theorem, and A/B testing | Done
 | 11  | Python: Linear algebra for ML - dot products, eigendecomposition, PCA intuition and SVD | Done
+| 12 | Calculus and optimization: gradients, chain rule and gradient descent's exercise and coding challenge | Done
