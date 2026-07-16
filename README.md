@@ -20,3 +20,9 @@ one day at a time.
 | 11  | Python: Linear algebra for ML - dot products, eigendecomposition, PCA intuition and SVD | Done
 | 12 | Calculus and optimization: gradients, chain rule and gradient descent's exercise and coding challenge | Done
 | 13 | Scikit-learn Pipelines | Done
+| 14 | ML: Feature Engineering: Transformed raw data into model-ready tensors | Done
+| 15 | ML: Advanded feature enginnering, interaction terms and temporal extraction | Done
+| 16 | ML: Data collection and Web scrapint | Done
+| 17 | ML: SQL for data science; The engine of data extraction | Done
+| 18 | Phase 1 Capstone Project | Done
+
