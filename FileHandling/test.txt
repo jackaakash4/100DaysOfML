@@ -1,0 +1,2 @@
+Hello world! 
+Revision of file handling in python
